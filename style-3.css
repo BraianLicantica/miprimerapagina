@@ -259,3 +259,6 @@ body{
             flex-direction: column;
             margin-top: 30px;
         }
+        .container-greeting{
+          text-align: center;
+        }
